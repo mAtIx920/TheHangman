@@ -12,6 +12,6 @@ export const dataQuotes = [
   {
     id: 2,
     category: 'Gra komputerowa',
-    word: 'Genshin Impact'
+    word: 'genshin impact'
   }
 ]
